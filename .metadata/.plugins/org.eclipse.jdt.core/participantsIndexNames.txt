@@ -1,0 +1,3 @@
+INDEX VERSION 1.126
+D:\CV18\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3759649447.index
+\OurFirstWebServicesClient\src
